@@ -9,5 +9,5 @@ Stable Diffusion is a powerful text-to-image model. There are now countless webs
 
 
 ## Demo
-!https://ncs68jswnv.clg07azjl.paperspacegradient.com/files/car.mp4?token=c53de207eaf66feeb639b617912612f5
+https://github.com/YunijKarki/stable-diffusion-evolution/assets/84677039/64ffee37-661d-4f71-844e-ee6bfc0428d7
 
